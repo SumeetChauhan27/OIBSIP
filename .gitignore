@@ -7,4 +7,5 @@ env/
 .env
 .DS_Store
 task1/
+task2/
 Context/
